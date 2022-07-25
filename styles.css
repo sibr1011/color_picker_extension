@@ -1,0 +1,13 @@
+html, body {
+    min-height: 70px;
+    min-width: 180px;
+}
+
+p,
+label {
+    font: 0.9rem 'Fira Sans', sans-serif;
+}
+
+input {
+    margin: .4rem;
+}
