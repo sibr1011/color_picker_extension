@@ -1,8 +1,7 @@
 # color_picker_extension
 A simple color picker - chrome extension that helps you select hex colors in the browser. 
 
-<img width="248" alt="preview" src="https://user-images.githubusercontent.com/17910114/180799820-d4b8668a-c4fb-457c-961d-269f0dc2998c.png">
-
+<img width="280" alt="Screenshot 2022-07-25 at 17 15 21" src="https://user-images.githubusercontent.com/17910114/180813810-4bc12aa8-1113-499b-abe9-6ef36bd24513.png">
 
 ## BASED ON 
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/color
@@ -15,3 +14,6 @@ A simple color picker - chrome extension that helps you select hex colors in the
 3. check the box next to Developer Mode
 4. click "Load Unpacked Extension"
 5. upload unzipped root folder
+
+## TODO
+- move picker popup further to left
