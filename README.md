@@ -1,4 +1,4 @@
-# color_picker_extension
+# guitar-colour-pick - chrome extension
 A simple color picker - chrome extension that helps you select hex colors in the browser. 
 
 <img width="280" alt="Screenshot 2022-07-25 at 17 15 21" src="https://user-images.githubusercontent.com/17910114/180813810-4bc12aa8-1113-499b-abe9-6ef36bd24513.png">
