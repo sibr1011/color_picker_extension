@@ -11,3 +11,7 @@ label {
 input {
     margin: .4rem;
 }
+
+.container {
+    vertical-align: middle;
+}
